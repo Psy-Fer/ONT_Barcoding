@@ -12,6 +12,7 @@ This may be be because I wasn't affected by the bug. It had already recovered ~7
 I also got some interesting results running LSK108 kit --barcoding where it picked up some other barcodes. 
 
 Specifically:
+```
 1 barcode26
 1 barcode28
 1 barcode29
@@ -30,6 +31,7 @@ Specifically:
 3 barcode74
 1 barcode80
 1 barcode89
+```
 
 Here is the unfiltered quality scores of the barcodes
 
